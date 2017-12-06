@@ -27,7 +27,6 @@ public class shortestRoad {
         
         System.out.println("ShortestRoad : " + shortestRoad(arr));
         
-        
     }
     public static int shortestRoad(int arr[][])
     {
