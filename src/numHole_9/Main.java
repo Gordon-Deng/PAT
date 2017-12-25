@@ -16,10 +16,10 @@ public class Main {
             int right = 0;
             char[] temp = creat(num);
             char[] l = new char[4];
-            Arrays.sort(temp);
+            Arrays.sort(temp);//asc
             for(int i = 3;i>=0;i--){
-                left = left*10+temp[i]-'0';
-                right = right*10+temp[3-i]-'0';
+                left = left*10+temp[i]-'0';//减数
+                right = right*10+temp[3-i]-'0';//被减数
                 l[i] = temp[3-i];
             }
             if(left==right){
@@ -32,7 +32,8 @@ public class Main {
         }
     }
 
-    private static char[] creat(String s){
+    private static char[] creat(String s)//3位数补0
+    {
         char[] num = new char[4];
         for(int i = 0;i<num.length;i++){
             if(i>=s.length())
