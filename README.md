@@ -1,7 +1,7 @@
 
-# Coding for [PAT](https://www.nowcoder.com/ ).
---
+# Coding for [PAT](https://www.nowcoder.com/ )
 
+---
 
 > ID:[想做一个不后悔的人](https://www.nowcoder.com/profile/9524432/resume#menubox)
 
