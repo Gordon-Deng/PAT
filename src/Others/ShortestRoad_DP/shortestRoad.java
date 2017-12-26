@@ -1,4 +1,6 @@
-package shortestRoad_0; /**
+package Others.ShortestRoad_DP;
+
+/**
  *      coding=utf-8
  *      author:Gordon Deng
  *      5 Dec 2017 4:34 PM

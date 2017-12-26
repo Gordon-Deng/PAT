@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="542183c4-7ae6-425f-a5ac-aefaa8b054da" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/shortestRoad_0/shortestRoad.java" afterPath="$PROJECT_DIR$/src/Others/ShortestRoad_DP/shortestRoad.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -77,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/numHole_9/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -85,6 +86,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shortestRoad.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Others/ShortestRoad_DP/shortestRoad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -132,7 +143,6 @@
         <option value="$PROJECT_DIR$/src/1.A+B和C /T1.java" />
         <option value="$PROJECT_DIR$/src/AaddBwithC/T1.java" />
         <option value="$PROJECT_DIR$/src/AaddBwithC_1/T1.java" />
-        <option value="$PROJECT_DIR$/src/shortestRoad_0/shortestRoad.java" />
         <option value="$PROJECT_DIR$/src/abilityAndIntegrity_5/T5.java" />
         <option value="$PROJECT_DIR$/src/aDivideB_7/T7.py" />
         <option value="$PROJECT_DIR$/src/aDivideB_7/T7.java" />
@@ -142,6 +152,11 @@
         <option value="$PROJECT_DIR$/src/dateOfHolmes_4/T4.java" />
         <option value="$PROJECT_DIR$/src/numHole_9/T9.py" />
         <option value="$PROJECT_DIR$/src/numHole_9/Main.java" />
+        <option value="$PROJECT_DIR$/src/shortestRoad_0/shortestRoad.java" />
+        <option value="$PROJECT_DIR$/src/shortestRoad/shortestRoad.java" />
+        <option value="$PROJECT_DIR$/src/Others/shortestRoad/shortestRoad.java" />
+        <option value="$PROJECT_DIR$/src/Others/shortestRoad.java" />
+        <option value="$PROJECT_DIR$/src/Others/ShortestRoad_DP/shortestRoad.java" />
       </list>
     </option>
   </component>
@@ -173,9 +188,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,13 +248,13 @@
               <item name="PAT" type="b2602c69:ProjectViewProjectNode" />
               <item name="PAT" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="partOfAaddB_6" type="462c0819:PsiDirectoryNode" />
+              <item name="Others" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PAT" type="b2602c69:ProjectViewProjectNode" />
               <item name="PAT" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shortestRoad_0" type="462c0819:PsiDirectoryNode" />
+              <item name="partOfAaddB_6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -490,11 +505,13 @@
       <workItem from="1514167732172" duration="2737000" />
       <workItem from="1514258557584" duration="553000" />
       <workItem from="1514277698386" duration="635000" />
+      <workItem from="1514296514901" duration="430000" />
+      <workItem from="1514296957692" duration="115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15978000" />
+    <option name="totallyTimeSpent" value="16523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -503,7 +520,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16415262" sideWeight="0.5042598" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14551908" sideWeight="0.5042598" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1854481" sideWeight="0.49574015" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -814,13 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shortestRoad_0/shortestRoad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AaddBwithC_1/T1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -867,13 +877,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fingerGuessing_8/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fingerGuessing_8/test.java" />
     <entry file="file://$PROJECT_DIR$/src/fingerGuessing_8/T8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
@@ -922,6 +926,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Others/ShortestRoad_DP/shortestRoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
