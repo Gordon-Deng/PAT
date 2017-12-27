@@ -1,9 +1,11 @@
 package numHole_9;
 
-
-/*
- *
+/**
+ *     @Author: Gordon Deng
+ *     @Description:
+ *     @Date:   11:12 2017/12/27
  */
+
 import java.util.Scanner;
 import java.util.Arrays;
 public class Main {
