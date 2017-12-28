@@ -8,7 +8,7 @@ public class Main {
         Scanner in = new Scanner(System.in);
         int type = in.nextInt();
         int num = in.nextInt();
-        double profit = 0.0;//最大收益
+        double profit = 0.0;//最大收益.
         int[] qua = new int[type];
         int[] price = new int[type];for(int i=0;i<type;i++){
             qua[i]=in.nextInt();
