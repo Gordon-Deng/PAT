@@ -1,4 +1,4 @@
-package aAddBToDigits;
+package aAddBToDigits_1011;
 
 import java.io.InputStreamReader;
 import java.io.BufferedReader;
