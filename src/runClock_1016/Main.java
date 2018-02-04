@@ -12,7 +12,8 @@ package runClock_1016;
  * @Example : 123 4577973 -> 12:42:59
  * @Input : 123 4577973
  * @Output : 12:42:59
- * @learn : Math UP DOWN FlOOR 等四舍五入处理小数点
+ * @learn :  1）Math UP DOWN FlOOR 等四舍五入处理小数点。
+ *           2）%02d的输出格式化,4变04
  * @Date :   23:40 2018/2/3
  */
 
@@ -23,6 +24,7 @@ public class Main{
     private static final int MINUTE = 60;
     private static final int HOURS = 3600;
     public static void main(String[] args) {
+
         Scanner in = new Scanner(System.in);
         int c1 = in.nextInt();
         int c2 = in.nextInt();
