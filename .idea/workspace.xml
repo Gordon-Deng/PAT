@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="542183c4-7ae6-425f-a5ac-aefaa8b054da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/findBadKey2_1023/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bestSchool_1022/Main.java" afterPath="$PROJECT_DIR$/src/bestSchool_1022/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/findBadKey2_1023/Main.java" afterPath="$PROJECT_DIR$/src/findBadKey2_1023/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,11 +85,11 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/findBadKey2_1023/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="62" column="19" lean-forward="false" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+            <state relative-caret-position="378">
+              <caret line="53" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#595#604#0" expanded="true" />
+                <element signature="e#543#552#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,8 +98,8 @@
       <file leaf-file-name="StringBuilder.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1389">
-              <caret line="258" column="37" lean-forward="false" selection-start-line="258" selection-start-column="25" selection-end-line="258" selection-end-column="37" />
+            <state relative-caret-position="228">
+              <caret line="258" column="25" lean-forward="false" selection-start-line="258" selection-start-column="25" selection-end-line="258" selection-end-column="25" />
               <folding>
                 <element signature="e#2949#2950#0" expanded="true" />
                 <element signature="e#2974#2975#0" expanded="true" />
@@ -595,12 +593,12 @@
       <workItem from="1517881445160" duration="3179000" />
       <workItem from="1517915951395" duration="3261000" />
       <workItem from="1517967907676" duration="10907000" />
-      <workItem from="1518093424142" duration="9691000" />
+      <workItem from="1518093424142" duration="11976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72654000" />
+    <option name="totallyTimeSpent" value="74939000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1058,8 +1056,8 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1389">
-          <caret line="258" column="37" lean-forward="false" selection-start-line="258" selection-start-column="25" selection-end-line="258" selection-end-column="37" />
+        <state relative-caret-position="228">
+          <caret line="258" column="25" lean-forward="false" selection-start-line="258" selection-start-column="25" selection-end-line="258" selection-end-column="25" />
           <folding>
             <element signature="e#2949#2950#0" expanded="true" />
             <element signature="e#2974#2975#0" expanded="true" />
@@ -1069,11 +1067,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/findBadKey2_1023/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="62" column="19" lean-forward="false" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+        <state relative-caret-position="378">
+          <caret line="53" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#595#604#0" expanded="true" />
+            <element signature="e#543#552#0" expanded="true" />
           </folding>
         </state>
       </provider>
