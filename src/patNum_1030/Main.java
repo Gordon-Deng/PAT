@@ -48,7 +48,6 @@ public class Main {
                 pat=(pat+pa)%mod;
             }
         }
-
         System.out.println(pat);
     }
 
