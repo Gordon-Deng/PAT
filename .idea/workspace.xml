@@ -4,10 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="542183c4-7ae6-425f-a5ac-aefaa8b054da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/patNum_1030/Main.java" afterPath="$PROJECT_DIR$/src/patNum_1030/Main.java" />
-    </list>
+    <list default="true" id="542183c4-7ae6-425f-a5ac-aefaa8b054da" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -106,8 +103,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/patNum_1030/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="528">
+              <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -595,12 +592,12 @@
       <workItem from="1518280011674" duration="34000" />
       <workItem from="1518334460689" duration="949000" />
       <workItem from="1518348538825" duration="11000" />
-      <workItem from="1518407205781" duration="337000" />
+      <workItem from="1518407205781" duration="354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102766000" />
+    <option name="totallyTimeSpent" value="102783000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1031,8 +1028,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/patNum_1030/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="15" />
+        <state relative-caret-position="528">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
