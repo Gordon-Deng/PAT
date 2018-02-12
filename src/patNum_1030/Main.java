@@ -31,6 +31,8 @@ public class Main {
         String inpueData = bufferedReader.readLine();
         bufferedReader.close();
 
+
+
         int mod=1000000007;
         int p=0;
         int pa=0;
